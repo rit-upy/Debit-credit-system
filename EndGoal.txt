@@ -1,0 +1,7 @@
+ Design a simple credit/debit wallet along with the basic interface. When logged in, the system
+ should be able to depict the following functionalities: Mandatory Functionalities: 
+ 1. Users are able to see the current balance.
+ 2. Users are able to add money. 
+ 3. Users are able to withdraw money. 
+ Optional Functionality: Users can see the history of transactions. 
+ (Use any in memory database or any SQL database for this question). Make UI if possible, UI would be a plus point.
